@@ -1,3 +1,3 @@
 Kotlin Practice #1
 
-No function are allowed
+No function, OOPS concepts are allowed
